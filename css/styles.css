@@ -1,33 +1,33 @@
 body {
-  color: #40514E;
+  color: #40514e;
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
 }
 
 h1 {
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
-  color: #66BFBF;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
   line-height: 2;
   padding-bottom: 10px;
 }
 
 h2 {
   font-size: 2.5rem;
-  font-family: 'Montserrat', sans-serif;
-  color: #66BFBF;
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
   font-weight: normal;
 }
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
-  color: #11999E;
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
 }
 
 hr {
-  border: dotted #EAF6F6 10px;
+  border: dotted #eaf6f6 10px;
   border-bottom: none;
   width: 7%;
   margin: 100px auto;
@@ -38,23 +38,23 @@ p {
 }
 
 a {
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
 
-a:hover{
-  color: #EAF6F6;
+a:hover {
+  color: #eaf6f6;
 }
 
-.copyright{
-  color: #EAF6F6;
+.copyright {
+  color: #eaf6f6;
   font-size: 0.8rem;
   padding: 20px 0px;
 }
 .topContainer {
-  background-color: #E4F9F5;
+  background-color: #e4f9f5;
   position: relative;
   padding-top: 100px;
 }
@@ -65,7 +65,7 @@ a:hover{
 
 .bottomContainer {
   margin-top: 100px;
-  background-color: #66BFBF;
+  background-color: #66bfbf;
   padding: 50px 0px 20px;
 }
 
@@ -97,15 +97,18 @@ a:hover{
 }
 
 .SkillsPic {
-  width: 20%;
+  width: 30%;
   float: left;
   margin-right: 30px;
+  padding-bottom: 30px;
+  text-align: right;
 }
 
 .MusicGif {
-  width: 20%;
+  width: 32%;
   float: right;
   margin-left: 30px;
+  padding-bottom: 30px;
 }
 
 .contact-message {
@@ -123,7 +126,7 @@ a:hover{
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
